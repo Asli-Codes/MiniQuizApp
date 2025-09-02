@@ -1,17 +1,21 @@
-🎯 Mini Quiz
+# 🎯 Mini Quiz
 
 A simple console-based Mini Quiz application built with C#. The user is asked multiple questions, and results are displayed based on the answers.
 
-🚀 Features
+---
 
-Console-based interface
+# 🚀 Features
 
-Ask questions to the user
+- Console-based interface
 
-Check correct/wrong answers
+- Ask questions to the user
 
-Display results
+- Check correct/wrong answers
 
-🛠 Technologies
+- Display results
+
+---
+
+# 🛠 Technologies
 
 C# (.NET Console App)
